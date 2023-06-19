@@ -1,5 +1,17 @@
 /* header styels */
 .header{margin: 0 auto; width: 716px;}
-.team{ size: 16px;}
-.meet{size: 54px;}
-.text{size: 20px}
+.team{ font-size: 16px;
+text-align: center;}
+.meet{font-size: 54px; text-align: center}
+.text{font-size:20px; text-align: center;}
+
+
+
+
+
+
+/* main box */
+
+.mainbox { width: 1336px;
+margin: 0 auto; background-color: bisque;} 
+.box1{width: 310px;}
