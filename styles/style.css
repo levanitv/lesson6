@@ -24,3 +24,8 @@ display: flex; flex-wrap: wrap; justify-content: space-between;}
 
 }
 .box2{width: 310px; height: 431px;}
+
+.fbinst{
+    width: 18px;height: 18px; display: flex;}
+    
+    .surname{font-size: 18px;}
