@@ -3,7 +3,7 @@
 .team{ font-size: 16px;
 text-align: center;}
 .meet{font-size: 54px; text-align: center}
-.text{font-size:20px; text-align: center;}
+.text{font-size:20px; text-align: center;margin-bottom: 48px;}
 
 
 
@@ -13,5 +13,14 @@ text-align: center;}
 /* main box */
 
 .mainbox { width: 1336px;
-margin: 0 auto; background-color: bisque;} 
-.box1{width: 310px;}
+    height: 909px;
+margin: 0 auto; background-color: bisque;
+display: flex; flex-wrap: wrap; justify-content: space-between;} 
+
+
+
+.box1{width: 310px; height: 431px; margin-bottom: 48px;
+
+
+}
+.box2{width: 310px; height: 431px;}
