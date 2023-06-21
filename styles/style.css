@@ -1,5 +1,5 @@
 /* header styels */
-.header{margin: 0 auto; width: 716px;}
+.header{margin: 0 auto; width: 716px; margin-top: 80px;}
 .team{ font-size: 16px;
 text-align: center;}
 .meet{font-size: 54px; text-align: center}
@@ -14,7 +14,7 @@ text-align: center;}
 
 .mainbox { width: 1336px;
     height: 909px;
-margin: 0 auto; background-color: bisque;
+margin: 0 auto;
 display: flex; flex-wrap: wrap; justify-content: space-between;} 
 
 
@@ -28,4 +28,19 @@ display: flex; flex-wrap: wrap; justify-content: space-between;}
 .fbinst{
     width: 18px;height: 18px; display: flex;}
     
-    .surname{font-size: 18px;}
+    .surname{font-size: 18px; margin-bottom: 4px;}
+    .box11{width: 278px;height: 108px; margin-bottom: 24px;}
+    .job{margin-bottom: 8px; color:#5F6980; font-size: 14px
+        ;} 
+
+
+
+
+        /* footer */
+        .footer{width: 1291px; height: 223px; background-color: aqua; margin: 0 auto;
+        margin-top: 108px; margin-bottom: 126px; display: flex; justify-content: space-between;}
+
+        .footer1{width: 318px; height: 221px;}
+
+        .footer2{ width: 136px; height: 223px;}
+        
